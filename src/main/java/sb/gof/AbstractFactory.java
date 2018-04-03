@@ -9,7 +9,8 @@ public class AbstractFactory {
 
 	// let's assume a kingdom comprises of Castle, King and Army
 	// a KingdomFactory implementation create a kingdom leveraging a concrete
-	// castle, king and army
+	// castle, king and army creation factory
+	
 	// therefore a KingdomFactory behaves as Abstract Factory
 
 	public interface Castle {
